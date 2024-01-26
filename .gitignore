@@ -7,3 +7,7 @@ vendor
 *.iml
 **/*.received.*
 venv
+
+
+TypeScript/.vscode
+TypeScript/test/jest/__snapshots__
